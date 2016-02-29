@@ -1,0 +1,51 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+  font-family: 'Lato', sans-serif;
+  background: #f2f2f2;
+}
+
+*,*::before, *::after {
+box-sizing: inherit;
+}
+
+article {
+  padding: 1em;
+  text-align: center;
+}
+
+h2{
+  font-family:
+  font-size:
+  text-align:
+}
+
+.btn {
+  color: #000;
+  border-color: #000;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 0.4em 0.75em 0.3em;
+  display: inline-block;
+  text-decoration: none;
+  border-color: #fff;
+  font-size: 1.125rem;
+  border: solid 3px #333;
+}
+
+div {
+  display: inline-block;
+  max-width: 25em;
+  padding: .5em 1em;
+  text-align:left;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+a {
+  padding: inherit;
+  display: inline-block;
+}
