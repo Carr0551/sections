@@ -14,13 +14,7 @@ article {
   text-align: center;
 }
 
-h2{
-  font-family:
-  font-size:
-  text-align:
-}
-
-.btn {
+.btn-ghost {
   color: #000;
   border-color: #000;
   background-color: #fff;
@@ -37,7 +31,7 @@ div {
   display: inline-block;
   max-width: 25em;
   padding: .5em 1em;
-  text-align:left;
+  text-align: left;
 }
 
 img {
